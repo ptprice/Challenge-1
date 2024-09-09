@@ -15,7 +15,7 @@ N/A see above
 
 ### Executing program
 
-N/A all that is required is the website URL to access
+This website is accesed at https://ptprice.github.io/Refactoring-Horiseon/
 ```
 
 ## Help
